@@ -15,7 +15,7 @@ Neste repositório você encontrará duas aplicações (front/back) em node.js e
 Utilizando:
 
 máquina EC2:
-  Intâncias :        | ipv4-pbulic IP
+ # Intâncias :        | ipv4-pbulic IP
     • frontend-app      3.22.176.54
     • node-app          3.21.84.1
     
