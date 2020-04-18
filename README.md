@@ -20,7 +20,7 @@ máquina EC2:
     • node-app          3.21.84.1
     
 máquina RDS:
-  Endpoint: node-app.cjeffeg10qrd.us-east-2.rds.amazonaws.com
+ # Endpoint: node-app.cjeffeg10qrd.us-east-2.rds.amazonaws.com
   Engine: MySQL Community
 
 ## Acesso ao Front-End
